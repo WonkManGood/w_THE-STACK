@@ -6,7 +6,7 @@ from machine import(
 ## pico pins
 GPIO0 = ...
 GPIO1 = ...
-GPIO2 = PWM(Pin(2, Pin.OUT), freq=100, duty_ns=100) # purplegp
+GPIO2 = PWM(Pin(2, Pin.OUT), freq=100, duty_ns=100) # purple
 GPIO4 = PWM(Pin(4, Pin.OUT), freq=100, duty_ns=100) # purple
 GPIO5
 GPIO6
