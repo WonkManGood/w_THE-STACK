@@ -1,0 +1,3 @@
+[submodule "wonkLIB"]
+	path = wonkLIB
+	url = https://github.com/WonkManGood/wonkLIB
